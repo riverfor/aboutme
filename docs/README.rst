@@ -1,3 +1,3 @@
 # River's website
 
-Please visit http://river.aipy.org 
+Please visit http://riverfor.github.io/aboutme/
